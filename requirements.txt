@@ -29,6 +29,7 @@ infinity==1.4
 intervals==0.8.1
 itsdangerous==0.24
 Jinja2==2.10
+jpholiday==0.0.2
 kombu==4.2.1
 Mako==1.0.7
 MarkupSafe==1.0
