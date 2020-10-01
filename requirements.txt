@@ -62,7 +62,7 @@ SQLAlchemy-Utils==0.33.3
 toml==0.9.4
 tornado==5.1.1
 Unidecode==1.0.22
-urllib3==1.22
+urllib3==1.25.9
 validators==0.12.2
 vine==1.1.4
 Werkzeug==0.14.1
