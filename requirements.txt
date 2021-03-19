@@ -32,7 +32,7 @@ infinity==1.4
 intervals==0.8.1
 itsdangerous==0.24
 jaconv==0.2.4
-Jinja2==2.10
+Jinja2==2.11.3
 jpholiday==0.0.2
 kombu==4.2.1
 Mako==1.0.7
