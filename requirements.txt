@@ -38,7 +38,7 @@ kombu==4.2.1
 Mako==1.0.7
 MarkupSafe==1.0
 mock==2.0.0
-numpy==1.14.3
+numpy==1.16.3
 pandas==0.23.1
 pbr==4.2.0
 psycopg2==2.7.3.1
@@ -65,7 +65,7 @@ Unidecode==1.0.22
 urllib3==1.22
 validators==0.12.2
 vine==1.1.4
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 WTForms==2.2
 WTForms-Components==0.9.7
 XlsxWriter==1.1.0
