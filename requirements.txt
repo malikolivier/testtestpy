@@ -78,7 +78,7 @@ SQLAlchemy==1.4.32
 SQLAlchemy-Utils==0.38.2
 toml==0.9.4
 tomli==1.2.3
-tornado==5.1.1
+tornado==6.3.3
 typed-ast==1.5.2
 typing-extensions==4.1.1
 Unidecode==1.0.22
