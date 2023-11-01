@@ -18,7 +18,7 @@ cx-Oracle==6.4.1
 decorator==4.3.0
 dnspython==1.16.0
 email-validator==1.1.3
-eventlet==0.30.0
+eventlet==0.31.0
 Faker==0.8.5
 Flask==2.0.3
 Flask-DebugToolbar==0.10.1
