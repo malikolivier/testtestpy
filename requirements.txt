@@ -29,7 +29,7 @@ Flask-Webpack==0.1.0
 Flask-WTF==1.0.0
 flower==0.9.7
 greenlet==0.4.16
-gunicorn==20.1.0
+gunicorn==22.0.0
 humanize==3.14.0
 hypothesis==4.22.0
 hypothesis-sqlalchemy==0.0.5
